@@ -9,4 +9,6 @@
 
 4.I use a little part of Pixnet data to train Kmeans for test,and use the whole pixnet open data to train Doc2vec.
 
-5.For Unsupervised Learning  I think the results are not bad , you can feel a little different in each category.(There are 8 categories)
+5.For Unsupervised Learning  I think the results are not bad , you can feel a little different in each category.(There are 8 categories).
+
+6.Try it! It very funny! And if you find any problems, please contact me for free ,Thanks!
