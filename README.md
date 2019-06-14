@@ -7,6 +7,6 @@
 
 3.stop.txt is used to remove unimportant Chinese words.(like '什麼' or '於是')
 
-4.I use a little part of Pixnet data to train Kmeans for test,but you  better use the whole pixnet open data to train Doc2vec.
+4.I use a little part of Pixnet data to train Kmeans for test,and use the whole pixnet open data to train Doc2vec.
 
 5.For Unsupervised Learning  I think the results are not bad , you can feel a little different in each category.(There are 8 categories)
